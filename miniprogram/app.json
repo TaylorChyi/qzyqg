@@ -4,7 +4,10 @@
     "page/API/index",
     "page/cloud/index",
     "page/extend/index",
-    "page/userInfo/userInfo"
+    "page/userInfo/userInfo",
+    "page/index/index",
+    "page/store/store",
+    "page/tutor/tutor"
   ],
   "subpackages": [
     {
@@ -230,7 +233,7 @@
         "text": "组件"
       },
       {
-        "pagePath": "page/extend/index",
+        "pagePath": "page/userInfo/userInfo",
         "iconPath": "@iconPathComponent",
         "selectedIconPath": "@selectedIconPathComponent",
         "text": "扩展能力"
